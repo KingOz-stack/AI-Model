@@ -17,6 +17,6 @@ Tools and Libraries
 Google Colab: Used for coding and cloud-based execution.
 Pandas: For data cleaning and preprocessing.
 Scikit-learn: This is used to build the machine learning model and evaluate its performance.
-Matplotlib/Seaborn (optional): For visualizing data (if used in your project).
+
 
 
